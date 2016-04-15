@@ -1,0 +1,6 @@
+1、更新源，选择163
+2、sudo apt-get update
+3、sudo apt-get install vim
+4、安装jdk， export JAVA_HOME to /etc/export
+5、安装eclipse
+6、安装svn
